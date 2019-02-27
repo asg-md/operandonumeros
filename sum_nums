@@ -1,0 +1,13 @@
+#' Suma 2 numeros
+#'
+#' @param arg1 , arg2 
+#'
+#' @return numero
+#'
+#' @examples
+#' > sum_nums(2,5)
+#' [1] 7
+
+sum_nums <- function(arg1, arg2) {
+  arg1 + arg2
+}
